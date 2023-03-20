@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BILEN BARO</h1>
-<h3 align="center">A passionate frontend developer from India,Assam</h3>
+<h3 align="center">A passionate  front-end web developer from India,Assam</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CompleteDeadImperialeagle-size_restricted.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilzrax&label=Profile%20views&color=0e75b6&style=flat" alt="bilzrax" /> </p>
