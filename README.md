@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
-- 💬 Ask me about **Fronted, Cybersecurity, Blockchain**
+- 💬 Ask me about **Frontend, Cybersecurity, Blockchain**
 
 - 📫 How to reach me **bilzrax.sec@gmail.com**
 
