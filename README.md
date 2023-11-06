@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilzrax&label=Profile%20views&color=0e75b6&style=flat" alt="bilzrax" /> </p>
 
-- 🔭 I’m currently working on **Machine Translation For Bodo Language**
+- 🔭 I’m currently working on **Machine Translation For Bodo Language** And Assames to Bodo language **
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
